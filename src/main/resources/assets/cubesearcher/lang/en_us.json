@@ -1,0 +1,8 @@
+{
+	"key.category.cubesearcher.main": "Cube Searcher",
+	"key.cubesearcher.search": "Search / clear structure highlight",
+	"cubesearcher.message.not_found": "No matching structure found nearby",
+	"cubesearcher.message.found": "Structure found (%sx%sx%s) at [%s, %s, %s]",
+	"cubesearcher.message.cleared": "Structure highlight cleared",
+	"cubesearcher.message.config_warning": "Config problem: %s (fallback values are in use; see config/cubesearcher.properties)"
+}

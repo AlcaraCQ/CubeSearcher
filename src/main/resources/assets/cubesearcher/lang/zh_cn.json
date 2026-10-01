@@ -1,0 +1,8 @@
+{
+	"key.category.cubesearcher.main": "方块搜索",
+	"key.cubesearcher.search": "搜索 / 解除结构高亮",
+	"cubesearcher.message.not_found": "未搜索到指定结构",
+	"cubesearcher.message.found": "已找到结构（%s×%s×%s），位置 [%s, %s, %s]",
+	"cubesearcher.message.cleared": "已解除结构高亮",
+	"cubesearcher.message.config_warning": "配置有问题：%s（相关项已用默认值，详见 config/cubesearcher.properties）"
+}
